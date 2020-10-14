@@ -8,4 +8,9 @@
 .images-size{
     height: 470px;
 }
-
+body{
+    background:rgb(99, 93, 92);
+}
+.card-img-top:hover{
+    width: 19rem;
+}
